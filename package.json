@@ -12,7 +12,7 @@
     "http",
     "fileshare"
   ],
-  "author": "Aaron Blankenship",
+  "author": "Aaron Blankenship <aaron@aaronblankenship.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ablankenship10/goserv/issues"
